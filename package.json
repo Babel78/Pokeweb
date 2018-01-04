@@ -2,7 +2,7 @@
   "name": "Pokemon-web",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Axel Campos Salazar <theprox.1590@gmail.com>",
+  "author": "Axel Campos Salazar",
   "scripts": {
     "start": "node index.js"
   },
